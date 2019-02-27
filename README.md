@@ -1,0 +1,2 @@
+# TextPad
+Simple JavaFx TextPad
